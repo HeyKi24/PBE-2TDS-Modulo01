@@ -24,4 +24,5 @@
     - Atualizar (PUT)
 
 ## Observação
-    - Não vamos nos preocupar com o relacionamento entre as classes departamento e funcionário, devido a não estarmos utilizando um banco de dados, mas assim salvando em ArrayList
+    
+     - Não vamos nos preocupar com o relacionamento entre as classes departamento e funcionário, devido a não estarmos utilizando um banco de dados, mas assim salvando em ArrayList
